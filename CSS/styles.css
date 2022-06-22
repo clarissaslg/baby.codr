@@ -1,0 +1,159 @@
+h1 {
+  font-family: Sue Ellen Francisco;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: orange;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white; 
+}
+
+body {
+  margin: 0;
+}
+
+hr {
+  background-color: inherit;
+  border-style: solid none none;
+  border-width: 1px;
+  border-color: #FDF1D6;
+  width: 20%;
+}
+
+/*******Class CSS*******/
+.header-container {
+  background-color: #FDF1D6;
+  margin-bottom: 0;
+}
+
+.top-container {
+  text-align: center;
+  margin: 5%;
+  font-family: Archivo, sans-serif;
+}
+
+.middle-container {
+  margin: 0;
+  font-family: Archivo, sans-serif;
+}
+
+.bottom-container {
+  margin:0;
+  padding: 7%;
+  background-color: #FDF1D6;
+  text-align: center;
+  font-family: Merriweather, sans-serif;
+}
+
+.about {
+  margin: 5% 20% auto 19%;
+  text-align: left;
+}
+
+.about img {
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.creators {
+  margin: 20% 20% 17%;
+  text-align: left;
+}
+
+.creators img {
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-us {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.autumntree img{
+  width: 40%;
+  height: auto;
+  margin: 20px;
+}
+
+.autumnbranches img{
+  width: 40%;
+  height: auto;
+}
+
+.falling-leaves img{
+  width: 10%;
+  height: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.leaf-blower-guy img{
+  position: absolute;
+  left: 10%;
+  height: 10%;
+  width: auto;
+}
+
+.leaf-blower-guy2 img{
+  position: absolute;
+  right: 10%;
+  top: 450px;
+  height: 10%;
+  width: auto;
+}
+
+.leaf-blower-guy4 {
+  width: 40%;
+  margin: 20px;
+}
+
+.btn {
+  background: #f79463;
+  background-image: -webkit-linear-gradient(top, #f79463, #f05d0e);
+  background-image: -moz-linear-gradient(top, #f79463, #f05d0e);
+  background-image: -ms-linear-gradient(top, #f79463, #f05d0e);
+  background-image: -o-linear-gradient(top, #f79463, #f05d0e);
+  background-image: linear-gradient(to bottom, #f79463, #f05d0e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #f27a35 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #68ba6a;
+  background-image: -webkit-linear-gradient(top, #68ba6a, #35870a);
+  background-image: -moz-linear-gradient(top, #68ba6a, #35870a);
+  background-image: -ms-linear-gradient(top, #68ba6a, #35870a);
+  background-image: -o-linear-gradient(top, #68ba6a, #35870a);
+  background-image: linear-gradient(to bottom, #68ba6a, #35870a);
+  text-decoration: none;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
